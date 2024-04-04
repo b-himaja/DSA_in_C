@@ -1,3 +1,4 @@
+//code is for sorting in decreasing order
 #include <stdio.h>
 int main(){
 int n,i,j,key;
